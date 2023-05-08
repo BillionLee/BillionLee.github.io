@@ -21,6 +21,8 @@ owner:
 links:
   - title: About Me
     url: /
+  - title: Hobbies
+    url: /hobbies/
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
 future: true
