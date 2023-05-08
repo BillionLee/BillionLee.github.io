@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-![lixiuping1](D:\website\Github个人站\BillionLee.github.io\lixiuping1.jpg)
+<img src="https://billionlee.github.io/lixiuping1.jpg" class="floatpic">
 
 Here is
 
