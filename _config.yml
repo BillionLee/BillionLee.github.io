@@ -7,33 +7,20 @@ url: https://billionlee.github.io/
 # Owner/author information
 owner:
   name: Xiuping Li
-  avatar: hanlin.jpg
-#  bio:
+  #  bio:
   email: lxp6@foxmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: John__Leer
-    github: BillionLee
-  # instagram: lancecai2002
-  # lastfm:
-  # tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  # google_plus:
+  github: BillionLee
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
-
-# Links to include in top navigation
 # For external links add external: true
 links:
   - title: About Me
-    url: /index/
-  - title: Hobbies
-    url: /hobbies/
-
-
+    url: /
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
 future: true
@@ -68,7 +55,3 @@ disqus:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
-
-# Latest update in 2023/05/01 by Hanlin Cai.
-# URL: https://caihanlin.com/
